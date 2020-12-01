@@ -1,0 +1,8 @@
+ 18 Ivan Zolotarev man 4 500
+ 19 Sergey Ivanov man 5 700
+ 18 Olga Prohorova female 4 500
+ 21 Pavel Alrhin man 3 0
+ 25 Eaterina Andreeva female 5 700
+ 17 Mihail Beliy man 4 500
+ 20 Anton Panlov man 2 0
+ 22 Tatyna Koroleva female 3 0
